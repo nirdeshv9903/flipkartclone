@@ -1,0 +1,115 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    text-decoration: none;
+    font-style: none;
+    list-style: none;
+}
+.body2{
+    background-color: #e8f3fd;
+}
+.flipkart{
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #0a0522;
+}
+.co{
+    background-color: #214ee1;
+}
+.img_text div a{
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+nav .ser input{
+    width: 20rem;
+    height: 3rem;
+}
+.phone a{
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+.phone a h6{
+    margin-top: 10px;
+}
+.phone a img{
+    width: 10rem;
+}
+.foo_ter{
+    background-color: #232222;
+    color: #fff;
+    padding: 2rem 0rem 2rem 0rem;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    height: 15rem;
+}
+.text{
+    color: #8e8b8b; 
+    font-size: 13px;
+}
+.text1{
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 3px;
+}
+.bott{
+    display: flex;
+    justify-content: space-around;
+}
+.icons i{
+    color: #fff;
+}
+.sec3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2rem 0 2rem 0;
+    
+    
+}
+.items{
+    display: flex;
+    width: 30rem;
+    justify-content: space-around;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+.item1{
+    border: 2px solid #232222;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+.bu{
+    display: flex;
+    justify-content: space-around;
+}
+.bu button{
+    background-color: #2a10ab;
+    color: #fff;
+    width: 2.5rem;
+    border-radius: 50%;
+}
+.bu1{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 3rem 0rem 3rem;
+}
+.bu1 button{
+    background-color: #2a10ab;
+    color: #fff;
+    width: 2.5rem;
+    border-radius: 50%;
+}
+.bu1 button a{
+    text-decoration: none;
+    color:#fff ;
+    font-size:1.5rem;
+}
+.bu button a{
+    text-decoration: none;
+    color:#fff ;
+    font-size:1.5rem;
+}
